@@ -1,2 +1,2 @@
 # hello-world
-Solo es parte di iniciar en Github
+Solo es parte de iniciar en Github
